@@ -1,3 +1,2 @@
 line 1
-line wrong
 line 2
